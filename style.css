@@ -21,7 +21,7 @@ id{
 #header{
     width:100%;
     height:100vh;
-    background-image: url(images/myself.img1-removebg-preview.png);
+    background-image: url(myself.img1-removebg-preview.png);
     background-size: cover;
     background-position: center;
 }
@@ -204,7 +204,7 @@ nav ul li a:hover::after{
 
 /*-----------Contact----------*/
 #contact{
-    background-image: url(images/work.logo.png3.jpg);
+    background-image: url(work.logo.png3.jpg);
 }
 
 .contact-left{
@@ -294,7 +294,7 @@ nav.fas{
 
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(images/myself.img1-removebg-preview.png);
+        background-image: url(myself.img1-removebg-preview.png);
     }
     .header-text{
         margin-top: 100%;
